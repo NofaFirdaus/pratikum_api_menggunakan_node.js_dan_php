@@ -45,6 +45,7 @@
   </body>
 </html>
 ```
+Link code : [index.php](pratikum/PHP/index.php)
 
 **Menambahkan CSS untuk php**
 
@@ -92,6 +93,8 @@ tr:hover {
   background-color: #ddd;
 }
 ```
+
+Link code : [style.css](pratikum/PHP/style.css)
 
 # **Konsumsi API dengan node js**
 
@@ -171,6 +174,7 @@ app.listen(port, () => {
   console.log(`Server berjalan di http://localhost:${port}`);
 });
 ```
+Link code : [index.js](pratikum/node_js/index.js)
 
 # **Tugas Pratikum**
 
