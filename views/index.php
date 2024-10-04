@@ -46,7 +46,7 @@ if ($search) {
                     <th>Name</th>
                     <th>Username</th>
                     <th>Email</th>
-                    <th>Kota</th>
+                    <th>City</th>
                 </tr>
             </thead>
             <tbody>
